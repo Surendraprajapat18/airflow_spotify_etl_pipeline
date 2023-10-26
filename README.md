@@ -1,3 +1,5 @@
+# Spotify ETL using Airflow
+
 ## Project Overview
 
 The **Spotify Data ETL with Airflow** project is an end-to-end data pipeline designed to automate the extraction, transformation, and loading of data of artists from Spotify API. It integrates with the Spotify API, extracts data, processes it, and allows you to choose a destination for storage, which can include Amazon S3, Google Cloud Storage, or other storage solutions.

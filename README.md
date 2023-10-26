@@ -6,7 +6,7 @@ The **Spotify Data ETL with Airflow** project is an end-to-end data pipeline des
 
 ## Architecture
 
-<img width="646" alt="image" src="https://drive.google.com/file/d/1HOBJ5WniszM_kQCWsCCgsVMFvoZxowm8/view?usp=drive_link">
+<img width="646" alt="image" src="https://drive.google.com/file/d/1HOBJ5WniszM_kQCWsCCgsVMFvoZxowm8/view?usp=sharing">
 
 
 The project is divided into several crucial components that play a significant role in efficiently processing and organizing Spotify artist data. The primary components are as follows:

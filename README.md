@@ -17,3 +17,7 @@ The project is divided into several crucial components that play a significant r
 - **Data Loading:** Following data preparation, the user can select the storage destination. In my project, I have opted for an Amazon S3 bucket to store the data.
 
 - **Airflow Integration:** The project is integrated with Apache Airflow, allowing for scheduled or trigger-based ETL jobs. This integration plays a vital role in automating and orchestrating the entire pipeline.
+
+
+## Final Output
+<img width="646" alt="image" src="https://github.com/Surendraprajapat18/airflow_spotify_etl_pipeline/assets/97840357/4dc0cb42-c362-418d-aa2e-a9349dea7c13">

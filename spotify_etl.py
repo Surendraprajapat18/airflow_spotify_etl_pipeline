@@ -21,8 +21,8 @@ def run_spotify_etl():
     list_of_artists = [td.find('a').text for td in title]
 
     # Spotify credentials
-    client_id = 'd93c01e1a52d46fea273d42d1a59819b'
-    client_secret = 'c273556539de4cdc852ed62e788eef85'
+    client_id = 'Spotify client id'
+    client_secret = 'Spotify secret id'
 
     # Initialize Spotify client
     client_credentials_manager = SpotifyClientCredentials(client_id=client_id, client_secret=client_secret)

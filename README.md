@@ -6,10 +6,10 @@ The **Spotify Data ETL with Airflow** project is an end-to-end data pipeline des
 
 ## Architecture
 
-<img width="646" alt="image" src="https://github.com/Surendraprajapat18/airflow_spotify_etl_pipeline/assets/97840357/c7457248-9607-42bb-9f83-687b353f93ed">
+<img width="646" alt="image" src="https://github.com/Surendraprajapat18/airflow_spotify_etl_pipeline/assets/97840357/741039f8-d761-48d9-abed-87e591d871b2">
 
 ## Project Flow 
-<img width="646" alt="image" src="https://github.com/Surendraprajapat18/airflow_spotify_etl_pipeline/assets/97840357/64beb9f1-17d9-42cd-96db-f4475826e80b">
+<img width="646" alt="image" src="https://github.com/Surendraprajapat18/airflow_spotify_etl_pipeline/assets/97840357/071edc75-e7a9-451d-81f1-7d7098b6a976">
 
 
 ## Project Components
@@ -25,4 +25,5 @@ The project is divided into several crucial components that play a significant r
 
 
 ## Final Output
-<img width="646" alt="image" src="https://github.com/Surendraprajapat18/airflow_spotify_etl_pipeline/assets/97840357/4dc0cb42-c362-418d-aa2e-a9349dea7c13">
+
+<img width="646" alt="image" src="https://github.com/Surendraprajapat18/airflow_spotify_etl_pipeline/assets/97840357/cb3c2c28-823a-4fd1-99d8-a821db69fc20">
